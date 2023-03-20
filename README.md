@@ -4,7 +4,7 @@ sudo apt install docker.io
 
 pip install ansible-builder
 
-export GITHUB_CRT_TOKEN=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
+export GITHUB_CRT_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 echo $GITHUB_CRT_TOKEN | docker login ghcr.io -u jarcalex --password-stdin
 
