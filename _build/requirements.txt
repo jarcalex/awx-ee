@@ -16,3 +16,4 @@ python-daemon
 pyyaml
 six
 zabbix-api
+dnspython
