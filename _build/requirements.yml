@@ -17,4 +17,9 @@ collections:
   - name: ansible.windows
   - name: redhatinsights.insights
   - name: community.zabbix
+    version: 1.9.3
   - name: community.google
+  - name: community.general
+  - name: ansible.utils
+  - name: netbox.netbox
+  
